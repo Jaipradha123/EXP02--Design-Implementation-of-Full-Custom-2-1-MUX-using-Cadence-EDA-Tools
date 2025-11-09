@@ -1,5 +1,3 @@
-![WhatsApp Image 2025-11-09 at 19 27 39_0e84e176](https://github.com/user-attachments/assets/70cbee5b-77b3-4acf-8971-57c279be87a1)# Ex No: 02 - Design & Implementation of Full Custom 2:1 MUX using Cadence EDA Tools
-
 ## Aim
 
 The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cadence EDA tools, ensuring accurate logic operation through waveform analysis and verification.
